@@ -1,6 +1,6 @@
 file_format: "1"
 id: macro
-name: 3 x 2 Macro
+name: MACRO
 type: shield
 url: https://github.com/germain-gadel
 requires: [seeeduino_xiao_ble]
